@@ -1,0 +1,9 @@
+{
+  "name": "paramount-seo-agent",
+  "version": "1.0.0",
+  "description": "Superpowered SEO agent for Paramount MD — audits pages, tracks rankings, generates content briefs, and syncs everything to Notion. Built for healthcare and medical practice websites.",
+  "author": {
+    "name": "Victor Sirgado / Paramount MD"
+  },
+  "keywords": ["seo", "content", "rankings", "audit", "healthcare", "notion", "ai-seo", "google"]
+}
