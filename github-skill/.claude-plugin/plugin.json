@@ -1,0 +1,9 @@
+{
+  "name": "github-skill",
+  "version": "1.0.0",
+  "description": "Interact with GitHub from Claude Cowork — create repos, push files, view repo contents, manage the pmd-skills library, and more.",
+  "author": {
+    "name": "Victor Sirgado / Paramount MD"
+  },
+  "keywords": ["github", "git", "repo", "version-control", "pmd-skills", "push", "upload"]
+}
