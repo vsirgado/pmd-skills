@@ -8,15 +8,22 @@ Paramount MD is a digital marketing and content development company specializing
 
 ## Plugins
 
-### [`paramount-seo-agent`](./paramount-seo-agent/)
-Superpowered SEO agent for Paramount MD. Audits pages, tracks rankings, generates content briefs, and syncs everything to Notion. Built specifically for healthcare and medical practice websites.
+### PMD Custom Builds
 
-**Components:** 1 skill · 5 commands · 1 autonomous agent
+| Plugin | Description |
+|--------|-------------|
+| [`paramount-seo-agent`](./paramount-seo-agent/) | SEO intelligence for healthcare sites — audits, rank tracking, content briefs, Notion sync |
+| [`cowork-os`](./cowork-os/) | Workspace OS — session init, persistent memory, subfolder creation |
+| [`github-skill`](./github-skill/) | Interact with GitHub from Cowork — create repos, push files, sync skills |
 
-### [`cowork-os`](./cowork-os/)
-Workspace OS for Claude Cowork. Handles session initialization, persistent memory management, and structured subfolder creation.
+### Downloaded & Tracked
 
-**Components:** 3 skills · 1 command
+| Plugin | Source | Description |
+|--------|--------|-------------|
+| [`superpowers`](./superpowers/) | [obra/superpowers](https://github.com/obra/superpowers) | Core skills library — TDD, debugging, collaboration patterns, git worktrees |
+| [`claude-mem`](./claude-mem/) | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Auto-captures session context and injects relevant memory into future sessions |
+| [`ui-ux-pro-max`](./ui-ux-pro-max/) | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX design intelligence — 50 styles, 9 stacks, 50+ font pairings |
+| [`awesome-claude-skills`](./awesome-claude-skills/) | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | Curated reference list of the best Claude skills across the community |
 
 ---
 
